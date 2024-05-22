@@ -607,9 +607,9 @@ a:hover {
 --------------------------------------------------------------*/
 .navbar-default {
   transition: all 0.5s ease-in-out;
-  background-color: #ffffff;
-  padding-top: 28px;
-  padding-bottom: 28px;
+  background-color: #DCDCDC;
+  padding-top: 10px;
+  padding-bottom: 5px;
   -webkit-backface-visibility: hidden;
   backface-visibility: hidden;
   box-shadow: 1px 2px 15px rgba(100, 100, 100, 0.3);
@@ -1802,7 +1802,7 @@ a:hover {
 }
 
 .card-box-d:hover .card-overlay-hover {
-  background-color: #3261e4;
+  background-color: #1c0d8d36;
   opacity: 0.9;
 }
 
