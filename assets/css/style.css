@@ -13,6 +13,10 @@ body {
   font-family: "Poppins", sans-serif;
   color: #555555;
 }
+logo {
+  height: 30px; /* Adjust the height as needed */
+  margin-right: 10px; /* Add some space between the logo and the text */
+}
 
 h1,
 h2,
@@ -1801,7 +1805,7 @@ a:hover {
 }
 
 .card-box-d:hover .card-overlay-hover {
-  background-color: #1c0d8d36;
+  background-color: #fcfcfc;
   opacity: 0.9;
 }
 
@@ -1855,7 +1859,7 @@ a:hover {
 }
 
 .sinse-box {
-  background-color: #3261e4;
+  background-color: #283adad5;
   padding: 1rem 2rem;
   position: absolute;
   left: 15px;
