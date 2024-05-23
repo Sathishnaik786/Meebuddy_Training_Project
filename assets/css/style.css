@@ -611,7 +611,7 @@ a:hover {
 --------------------------------------------------------------*/
 .navbar-default {
   transition: all 0.5s ease-in-out;
-  background-color: #DCDCDC;
+  background-color: #ffffff;
   padding-top: 10px;
   padding-bottom: 5px;
   -webkit-backface-visibility: hidden;
