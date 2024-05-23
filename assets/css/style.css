@@ -13,19 +13,13 @@ body {
   font-family: "Poppins", sans-serif;
   color: #555555;
 }
-<<<<<<< HEAD
-.logo img {
-        max-width: 100px; /* Adjust as needed */
-        height: auto;
-        margin-top: 10px; /* Adjust as needed */
-    } 
-=======
-logo {
-  height: 30px; /* Adjust the height as needed */
-  margin-right: 10px; /* Add some space between the logo and the text */
-}
 
->>>>>>> 5471754b895b1d8d883fcc92173eae844012bc2f
+.logo img {
+        position:fixed;
+        height: auto;
+        left: 0px;
+        width: auto;
+    } 
 h1,
 h2,
 h3,
@@ -136,7 +130,7 @@ a:hover {
 }
 
 .color-b {
-  color: #000000;
+  color: #3261e4;
 }
 
 .color-d {
@@ -619,7 +613,7 @@ a:hover {
 --------------------------------------------------------------*/
 .navbar-default {
   transition: all 0.5s ease-in-out;
-  background-color: #DCDCDC;
+  background-color: #4b8ae7;
   padding-top: 10px;
   padding-bottom: 5px;
   -webkit-backface-visibility: hidden;
