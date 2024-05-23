@@ -619,7 +619,7 @@ a:hover {
 --------------------------------------------------------------*/
 .navbar-default {
   transition: all 0.5s ease-in-out;
-  background-color: #f2f2f2;
+  background-color: #DCDCDC;
   padding-top: 10px;
   padding-bottom: 5px;
   -webkit-backface-visibility: hidden;
