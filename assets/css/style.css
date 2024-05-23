@@ -1859,7 +1859,7 @@ a:hover {
 }
 
 .sinse-box {
-  background-color: #283adad5;
+  background-color: #a6a6a6d5;
   padding: 1rem 2rem;
   position: absolute;
   left: 15px;
@@ -2130,7 +2130,7 @@ a:hover {
 .section-footer {
   padding-top: 60px;
   margin-top: 60px;
-  background: #686aa9;
+  background: #c4a3cd;
 }
 
 .section-footer ul {
@@ -2148,13 +2148,13 @@ a:hover {
 }
 
 footer {
-  background: #a69e9e;
+  background: #9fe4f0;
   text-align: center;
   padding: 30px 0;
 }
 
 footer .copyright-footer {
-  border-top: 1px solid #bd9f9f;
+  border-top: 1px solid #9fe4f0;
   padding-top: 20px;
 }
 
