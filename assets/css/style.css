@@ -13,11 +13,19 @@ body {
   font-family: "Poppins", sans-serif;
   color: #555555;
 }
+<<<<<<< HEAD
+.logo img {
+        max-width: 100px; /* Adjust as needed */
+        height: auto;
+        margin-top: 10px; /* Adjust as needed */
+    } 
+=======
 logo {
   height: 30px; /* Adjust the height as needed */
   margin-right: 10px; /* Add some space between the logo and the text */
 }
 
+>>>>>>> 5471754b895b1d8d883fcc92173eae844012bc2f
 h1,
 h2,
 h3,
@@ -2130,7 +2138,7 @@ a:hover {
 .section-footer {
   padding-top: 60px;
   margin-top: 60px;
-  background: #c4a3cd;
+  background: #f5f5f5 ;
 }
 
 .section-footer ul {
@@ -2148,13 +2156,13 @@ a:hover {
 }
 
 footer {
-  background: #9fe4f0;
+  background: #f5f5f5 ;
   text-align: center;
   padding: 30px 0;
 }
 
 footer .copyright-footer {
-  border-top: 1px solid #9fe4f0;
+  border-top: 1px solid #000000;
   padding-top: 20px;
 }
 
